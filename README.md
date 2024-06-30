@@ -1,5 +1,5 @@
 # Adecco-HR-Analytics
-This data is about Adecco India facinf significant challengess with high employee turnover rates, especiallt in the sales department. By leveraing the data insights our goal is to uncover the actionable strategies that will enhance employee engagement and retention, fostering a amore stable and productive work environment.
+This data is about Adecco India facing significant challenges with high employee turnover rates, especially in the sales department. By leverazing the data insights our goal is to uncover the actionable strategies that will enhance employee engagement and retention, fostering a amore stable and productive work environment.
 
 ## Project Overview
 
